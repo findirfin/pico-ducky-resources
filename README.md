@@ -9,5 +9,5 @@ All peices of code and resources are owned by their respective owners. This is s
 # payloads
 ## Windows 10/11
 * [delay + repeat rickroll](./payloads/win_rickroll_payload.dd)
-* [send gmail](./payloads/win_gmail_payload.dd)
+* [send gmail with device specs](./payloads/win_gmail_payload.dd)
 ## Linux
