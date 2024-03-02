@@ -11,3 +11,4 @@ All peices of code and resources are owned by their respective owners. This is s
 * [delay + repeat rickroll](./payloads/win_rickroll_payload.dd)
 * [send gmail with device specs](./payloads/win_gmail_payload.dd)
 ## Linux
+* [open a prank crash window](./payloads/ubuntu_crash_payload.dd)
